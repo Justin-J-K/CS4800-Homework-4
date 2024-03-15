@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb335494-d301-4a2e-88a2-160b30f1ef61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS4800_HW4_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/MealDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/MealFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/carbs/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/carbs/Carb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/carbs/CarbsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/carbs/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/carbs/Lentils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/carbs/Pistachio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/fats/Avocado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/fats/Fat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/fats/FatsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/fats/Peanuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/fats/SourCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/fats/Tuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/proteins/Beef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/proteins/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/proteins/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/proteins/Protein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/proteins/ProteinsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mealplan/proteins/Tofu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/PizzaDriver.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dh04jVP6AfaFRpZJvS4elAGobX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MealDriver.executor": "Run",
+    "Application.PizzaDriver.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jjkim/IdeaProjects/CS4800_HW4_2/src/pizza",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/jjkim/IdeaProjects/CS4800_HW4_2/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pizza" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MealDriver">
+    <configuration name="MealDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mealplan.MealDriver" />
+      <module name="CS4800_HW4_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mealplan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pizza.PizzaDriver" />
+      <module name="CS4800_HW4_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pizza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MealDriver" />
+        <item itemvalue="Application.PizzaDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb335494-d301-4a2e-88a2-160b30f1ef61" name="Changes" comment="" />
+      <created>1710444814749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710444814749</updated>
+      <workItem from="1710444815815" duration="2899000" />
+      <workItem from="1710453318404" duration="611000" />
+      <workItem from="1710536031713" duration="4314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
